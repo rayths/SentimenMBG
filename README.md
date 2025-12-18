@@ -171,7 +171,7 @@ Gunakan Google Sheets untuk penyimpanan persisten. Lihat [DEPLOYMENT.md](DEPLOYM
 **Tugas Besar Deep Learning - Kelompok 9**  
 - 👤 [Raid Muhammad Naufal](https://github.com/rayths)
 - 👤 [Najla Juwairia](https://github.com/najlajuwa)
-- 👤 [Tessa Kania Sagala](https://github.com/username3)
+- 👤 [Tessa Kania Sagala](https://github.com/tessakanias)
 
 ## 📄 Lisensi
 
