@@ -1,0 +1,26 @@
+# Requirements untuk Aplikasi Analisis Sentimen MBG
+# Install dengan: pip install -r requirements.txt
+
+# Framework Deep Learning
+tensorflow>=2.10.0
+
+# Web Framework
+streamlit>=1.28.0
+
+# Data Processing
+numpy>=1.23.0
+pandas>=1.5.0
+
+# Visualization
+plotly>=5.15.0
+matplotlib>=3.6.0
+
+# Word Cloud (Opsional - untuk visualisasi kata)
+wordcloud>=1.9.0
+
+# Google Sheets Integration (untuk deployment)
+gspread>=5.0.0
+google-auth>=2.0.0
+
+# Utilities
+pickle-mixin>=1.0.2
